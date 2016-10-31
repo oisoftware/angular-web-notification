@@ -271,4 +271,4 @@
 
         return service;
     });
-}(window.notify));
+}(window.Notification));
